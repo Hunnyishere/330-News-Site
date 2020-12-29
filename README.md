@@ -1,3 +1,8 @@
+#### Languages / Framework
+- HTML
+- PHP
+- Database: MySQL
+
 #### Basic Functions
 - User Management
   - User register, login, logout
