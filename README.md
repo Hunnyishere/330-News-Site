@@ -1,6 +1,6 @@
 #### Languages / Framework
-- HTML
-- PHP
+- Frontend: HTML
+- Backend: PHP
 - Database: MySQL
 
 #### Basic Functions
